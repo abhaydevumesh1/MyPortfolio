@@ -96,6 +96,13 @@ function App() {
         Hello! I am Abhay, a passionate software engineer with expertise in React and modern web development.
         I love creating interactive and user-friendly web applications.
       </p>
+      <a
+         href="/resume.pdf"
+         download="Abhaydev_Resume.pdf"
+         className="resume-button">
+           Download Resume
+</a>
+
     </div>
   </section>
 )}

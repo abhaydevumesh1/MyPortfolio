@@ -205,6 +205,22 @@ html, body {
   margin-bottom: 20px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
+ .resume-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 18px;
+  background-color: #2a5298;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.resume-button:hover {
+  background-color: #3c6fcf;
+}
+
 
 .contact-box a {
   color: #2a5298;
@@ -261,7 +277,7 @@ html, body {
   background: #3c6fcf;
 }
 
-/* Gallery */
+/* Projects */
 .Projects img {
   margin: 10px;
   border-radius: 10px;
