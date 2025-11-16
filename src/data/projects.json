@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "TOGO PET APP",
+    "description": "A Flutter + Spring Boot app for pet healthcare.",
+    "tags": ["Flutter", "Spring Boot", "Healthcare"],
+    "image": "/assets/togo.png"
+  },
+  {
+    "id": 2,
+    "title": "Ayurvedic Plant Identifier",
+    "description": "Deep learning model for classifying medicinal plants.",
+    "tags": ["Deep Learning", "Ayurveda", "Image Classification"],
+    "image": "/assets/ayurveda.png"
+  },
+  {
+    "id": 3,
+    "title": "Crop Yield Predictor",
+    "description": "ML model to forecast crop yield using soil and weather data.",
+    "tags": ["Machine Learning", "Agriculture", "Forecasting"],
+    "image": "/assets/crop.png"
+  }
+]
