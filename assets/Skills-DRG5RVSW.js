@@ -1,0 +1,1 @@
+import{j as s}from"./index-CSLUEK2v.js";const i=["JavaScript","React","Node.js","CSS","Git","REST APIs"],t=()=>s.jsxs("section",{className:"section",children:[s.jsx("h2",{className:"professional-title",children:"🎓 Professional Knowledge"}),s.jsx("ul",{className:"skills-list",children:i.map((l,e)=>s.jsx("li",{children:l},e))})]});export{t as default};
